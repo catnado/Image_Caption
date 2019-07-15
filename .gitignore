@@ -1,5 +1,6 @@
 annotations/
 train2014/
 train2014.zip
-captions.zip
-
+val2014/
+val2014.zip
+transfer_values_train.pkl
